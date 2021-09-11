@@ -48,7 +48,11 @@ text-align: center;
 }
 
 #onion {
-    color: yellow
+    color: yellow;
+}
+
+#peppers {
+    color: fuchsia;
 }
 
 /* .baby-card {
