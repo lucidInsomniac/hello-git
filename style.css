@@ -35,7 +35,7 @@ text-align: center;
 
 #pepperoni {
 /*Changes the space inside content box of card_item*/
-color: red;
+color: purple;
 flex-basis: 16.5%;
 padding: 5rem 2rem;
 background-color: cadetblue;
