@@ -43,6 +43,10 @@ border: black solid 3px;
 text-align: center;
 }
 
+#onion {
+    color: yellow
+}
+
 /* .baby-card {
     background: grey;
     border: 5px solid black;
