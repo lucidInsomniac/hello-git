@@ -1,0 +1,54 @@
+.index {
+    box-sizing: content-box;
+    width: 100%;
+}
+
+.container{
+    /* display: flex; */
+    /*Put a card in the next row 
+    when prev cards take all width*/
+    /* flex-wrap: wrap; */
+
+    margin-left: .2rem;
+    margin-right: .2rem;
+    background-color:aqua;
+    padding: 2rem 2rem;
+
+
+}
+
+.pizza {
+    color: green;
+}
+
+
+
+.toppings {
+/*Changes the space inside content box of card_item*/
+color: yellow;
+flex-basis: 16.5%;
+padding: 5rem 2rem;
+background-color: cadetblue;
+border: black solid 3px;
+text-align: center;
+}
+
+#pepperoni {
+/*Changes the space inside content box of card_item*/
+color: red;
+flex-basis: 16.5%;
+padding: 5rem 2rem;
+background-color: cadetblue;
+border: black solid 3px;
+text-align: center;
+}
+
+/* .baby-card {
+    background: grey;
+    border: 5px solid black;
+} */
+
+
+.mq-value {
+    color: black;
+}
